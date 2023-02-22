@@ -1,0 +1,50 @@
+body {
+    background-color:rgba(199, 196, 35, 0.521);
+    width: 1920px;
+    height: auto;
+}
+
+.list {
+    width: 300px;
+    text-align: left;
+    height: 35px;
+    background-color: rgba(100, 100, 100, 0.548);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 50px;
+    text-decoration: underline black;
+}
+
+.ingredients {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    width: 700px;
+    color:rgb(168, 36, 36);
+}
+
+.image {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    width: 700px;
+    height: auto;
+    font-size: 20px;
+}
+
+.steps {
+    font-size: 22px;
+    width: 700px;
+    height:auto;
+}
+
+.header {
+    font-size: 40px;
+    background-color: rgba(100, 100, 100, 0.548);
+    width: 800px;
+}
